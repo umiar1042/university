@@ -1,0 +1,358 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.college{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-image: url(1.png);
+    height: 100vh;
+    width: 100%;
+}
+.img{
+    position: relative;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.nav1{
+    position: relative;
+    display: flex;
+    list-style: none;
+    margin-left: 600px;
+    justify-content: space-evenly;
+    font-size: 20px;
+    top: -70px;
+     color: #fff;
+}
+.link{
+    display: inline;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    transition: 0.5s;
+
+    color: white;
+}
+.link:hover{
+text-decoration: underline chocolate;
+
+}
+.text{
+    text-align: center;
+     font-size: 65px;
+     color: white;
+     text-shadow: 2px 4px 5px black;
+     margin-top: 145px;
+}
+.a{
+    text-align: center;
+    margin: 7px;
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 4px 5px black;
+}
+.btn{
+    margin-left: 500px;
+    font-size: 20px;
+    padding: 7px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+}
+.btn:hover{
+color: white;
+background-color: red;
+transition: 0.4s;
+border-color: red;
+}
+.text1{
+position: relative;
+text-align: center;
+margin-top: 300px;
+}
+.para{
+    position: relative;
+    text-align: center;
+}
+.s{
+    position: relative;
+    margin-left: 10px;
+    border: 1px solid pink;
+    width: 25%;
+    height: 20vh;
+    padding: 5px;
+    background-color: pink;
+    border-radius: 10px;
+
+}
+.s:hover{
+    background-color: pink;
+    box-shadow: 0 0 20px 0 black;
+    transition: 0.5s;
+}
+.a1{
+    position: relative;
+    text-align: center;
+    margin-top: -120px;
+    border: 1px solid black;
+    height: 20vh;
+    width: 25%;
+}
+.row{
+    margin: 6%;
+    display: flex;
+    justify-content: space-between;
+}
+.para1{
+    box-sizing: border-box;
+    background-color: pink;
+    border-radius: 10px;
+    flex-basis: 31%;
+    padding: 20px 12px;
+    margin-top: 5px;
+}
+.b1{
+    position: relative;
+    box-shadow: 2px 4px 5px black;
+}
+
+.w3{
+    position: relative;
+    text-align: center;
+}
+.d3{
+    position: relative;
+    text-align: center;
+}
+.c{
+    position: relative;
+    height: 65vh;
+    width: 25%;
+    margin-left: 120px;
+    top: 29px;
+    border-radius: 10px;
+}
+.b2{
+    position: relative;
+    box-shadow: 2px 4px 5px black ;
+}
+.f{
+    position: relative;
+    height: 65vh;
+    width: 25%;
+    margin-left: 440px;
+    top: -430px;
+    border-radius: 10px;
+}
+.g{
+    position: relative;
+    height: 65vh;
+    width: 25%;
+    margin-left: 800px;
+    top: -868px;
+    border-radius: 10px;
+}
+.h{
+    position: relative;
+    text-align: center;
+    top: -830px;
+}
+.i{
+    position: relative;
+    text-align: center;
+    top: -830px;
+}
+.j{
+    position: relative;
+    height: 35vh;
+    width: 25%;
+    top: -800px;
+    margin-left: 120px;
+    border-radius: 10px;    
+}
+.k{
+    position: relative;
+    height: 35vh;
+    width: 25%;
+    top: -1040px;
+    margin-left: 460px;
+    border-radius: 10px;
+}
+.l{
+    position: relative;
+    height: 35vh;
+    width: 25%;
+    top: -1278px;
+    margin-left: 810px;
+    border-radius: 10px;
+}
+.m{
+position: relative;
+margin-left: 120px;
+top: -1270px;
+font-size: 22px;
+}
+.n{
+    position: relative;
+    margin-left: 120px;
+    top: -1265px;
+}
+.p1{
+position: relative;
+margin-left: 460px;
+top: -1330px;
+font-size: 22px;
+}
+.q1{
+    position: relative;
+    margin-left: 460px;
+    top: -1325px;
+}
+.r{
+    position: relative;
+    margin-left: 810px;
+    top: -1400px;
+    font-size: 22px;
+}
+.s5{
+    position: relative;
+    margin-left: 821px;
+    top: -1390px;
+}
+.s6{
+    position: relative;
+    text-align: center;
+    top: -1350px;
+    }
+    .s7{
+        position: relative;
+        text-align: center;
+        top: -1350px;
+    }
+    .w{
+        position: relative;
+        height: 7vh;
+        width: 5%;
+        top: -1300px;
+        margin-left: 120px;
+        border-radius: 30px;
+    }
+    .C2{
+        position: relative;
+        height: 10vh;
+        width: 5%;
+        border-radius: 30PX;
+    }
+    .c3{
+        position: relative;
+        margin-left: 120px;
+        top: -1300px;
+    }
+    .z1{
+        position: relative;
+        margin-left: 130px;
+        top: -1290px;
+        font-size: 22px;
+        
+    }
+.C2{
+        position: relative;
+        height: 10vh;
+        width: 15%;
+        border-radius: 30PX;
+    }
+    .c3{
+        position: relative;
+        margin-left: 200px;
+        top: -1300px;
+    }
+    .c3{
+        position: relative;
+        margin-left: 200px;
+        top: -1240px;
+        border: 1px solid pink;
+        width: 30%;
+        height: 25vh;
+        padding-left: 20px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: pink;
+    }
+    .z1{
+        position: relative;
+        margin-left: 220px;
+        top: -1280px;
+        font-size: 22px;
+        
+    }
+    .cc{
+     position: relative;
+     height: 10vh;
+     width: 15%; 
+     border-radius: 30px;     
+    }
+    .c4{
+        position: relative;
+        margin-left: 650px;
+        top: -1430px;
+        border: 1px solid pink;
+        width: 30%;
+        height: 25vh;
+        padding-left: 20px;
+    padding-top: 10px;
+    border-radius: 10px;
+    background-color: pink;
+    }
+    .z2{
+        position: relative;
+        margin-left: 670px;
+        top: -1470px;
+        font-size: 22px;
+    }
+    .x{
+        position: relative;
+        height: 35vh;
+        width: 80%;
+        top: -1300px;
+        margin-left: 130px;
+        border-radius: 10px;
+    }
+    .x1{
+        position: relative;
+        top: -1500px;
+        color: white;
+        text-shadow: 2px 4px 5px black;
+        text-align: center;
+    }
+    .x3{
+        position: relative;
+        top: -1480px;
+        height: 6vh;
+        width: 10%;
+        font-size: 20px;
+        border-radius: 10px;
+        background-color: white;
+        margin-left: 500px;
+    }
+    .x3:hover{
+        color: white;
+        transition: 0.4s;
+        background-color: red;
+        border-color: red;    
+    }
+    .v4{
+        position: relative;
+        text-align: center;
+        top: -1350px;
+
+    }
+    .ba{
+        list-style: none;
+        display: inline-block;
+    }
+    .my{
+        color: red;
+        font-size: 40px;
+    }
